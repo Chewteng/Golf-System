@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"my.uum","l":"App"},{"p":"my.uum","l":"dbConnection"},{"p":"my.uum","l":"golferData"},{"p":"my.uum","l":"ManageGolfer"},{"p":"my.uum","l":"ManageHole"},{"p":"my.uum","l":"ManageTournament"},{"p":"my.uum","l":"telegramBot"}];updateSearchResults();
